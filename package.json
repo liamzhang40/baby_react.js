@@ -13,7 +13,7 @@
     "babel-loader": "^9.1.0",
     "babel-preset-es2015": "^6.16.0",
     "webpack": "^5.74.0",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^4.11.1"
   },
   "author": "sven.roeterdink1@gmail.com",
   "license": "ISC",
